@@ -1,0 +1,1 @@
+select * from sneha.vehicle_summary_by_year_make;

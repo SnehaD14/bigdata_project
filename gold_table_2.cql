@@ -1,0 +1,1 @@
+select * from sneha.substance_abuse_in_accidents;
